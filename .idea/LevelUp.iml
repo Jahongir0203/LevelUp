@@ -3,6 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/firebase_fcm/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_fcm/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_fcm/build" />
       <excludeFolder url="file://$MODULE_DIR$/local_notifications/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/local_notifications/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/local_notifications/build" />
