@@ -1,0 +1,5 @@
+package com.example.one_signal_tutorial
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
