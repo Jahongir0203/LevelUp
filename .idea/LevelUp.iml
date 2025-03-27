@@ -51,6 +51,9 @@
       <excludeFolder url="file://$MODULE_DIR$/one_signal_tutorial/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/one_signal_tutorial/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/one_signal_tutorial/build" />
+      <excludeFolder url="file://$MODULE_DIR$/read_books/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/read_books/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/read_books/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
