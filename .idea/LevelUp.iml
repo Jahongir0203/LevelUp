@@ -54,6 +54,9 @@
       <excludeFolder url="file://$MODULE_DIR$/read_books/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/read_books/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/read_books/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios_pull_down_menu/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios_pull_down_menu/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios_pull_down_menu/build" />
       <excludeFolder url="file://$MODULE_DIR$/read_books/ios/.symlinks/plugins/device_info_plus/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/read_books/ios/.symlinks/plugins/device_info_plus/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/read_books/ios/.symlinks/plugins/device_info_plus/build" />
