@@ -50,9 +50,9 @@ class NfcCubit extends Cubit<NfcState> {
           },
           onDiscovered: (tag) async {
             if (operations == NfcOperations.read) {
-              readFromTag(tag: tag);
+              await readFromTag(tag: tag);
             } else if (operations == NfcOperations.write) {
-              writeToTag(tag: tag, dataType: dataType);
+              await writeToTag(tag: tag, dataType: dataType);
             }
 
             await NfcManager.instance.stopSession(
@@ -71,6 +71,8 @@ class NfcCubit extends Cubit<NfcState> {
       }
     } catch (e) {
       debugPrint("E:$e");
+      print("Error$e");
+      print("1qwwdew ve fvh fehw e wiew ier ir vh rh ruh hudf fr hfh wfv hf");
       emit(state.copyWith(status: RequestStatus.error, failure: e.toString()));
     }
   }

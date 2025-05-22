@@ -108,6 +108,15 @@
       <excludeFolder url="file://$MODULE_DIR$/flutter_nfc/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_nfc/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_nfc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_onboarding/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_onboarding/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animated_onboarding/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_nfc/ios/.symlinks/plugins/nfc_manager/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_nfc/ios/.symlinks/plugins/nfc_manager/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_nfc/ios/.symlinks/plugins/nfc_manager/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_nfc/ios/.symlinks/plugins/nfc_manager/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_nfc/ios/.symlinks/plugins/nfc_manager/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_nfc/ios/.symlinks/plugins/nfc_manager/example/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
