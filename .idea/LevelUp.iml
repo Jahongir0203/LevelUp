@@ -120,6 +120,9 @@
       <excludeFolder url="file://$MODULE_DIR$/stripe_service/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/stripe_service/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/stripe_service/build" />
+      <excludeFolder url="file://$MODULE_DIR$/real_time_ride/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/real_time_ride/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/real_time_ride/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
